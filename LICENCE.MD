@@ -2,7 +2,9 @@
                    Version 3.1, July 2019
 
 by Sam Hocevar <sam@hocevar.net>
+
    theiostream <matoe@matoe.co.cc>
+   
    dtf         <wtfpl@dtf.wtf>
 
            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENCE
